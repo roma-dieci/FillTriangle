@@ -1,0 +1,10 @@
+C:\Users\Лилия\source\repos\Lab3_task3\Lab3_task3\bin\Debug\Lab3_task3.exe.config
+C:\Users\Лилия\source\repos\Lab3_task3\Lab3_task3\bin\Debug\Lab3_task3.exe
+C:\Users\Лилия\source\repos\Lab3_task3\Lab3_task3\bin\Debug\Lab3_task3.pdb
+C:\Users\Лилия\source\repos\Lab3_task3\Lab3_task3\obj\Debug\Lab3_task3.csprojAssemblyReference.cache
+C:\Users\Лилия\source\repos\Lab3_task3\Lab3_task3\obj\Debug\Lab3_task3.Form1.resources
+C:\Users\Лилия\source\repos\Lab3_task3\Lab3_task3\obj\Debug\Lab3_task3.Properties.Resources.resources
+C:\Users\Лилия\source\repos\Lab3_task3\Lab3_task3\obj\Debug\Lab3_task3.csproj.GenerateResource.cache
+C:\Users\Лилия\source\repos\Lab3_task3\Lab3_task3\obj\Debug\Lab3_task3.csproj.CoreCompileInputs.cache
+C:\Users\Лилия\source\repos\Lab3_task3\Lab3_task3\obj\Debug\Lab3_task3.exe
+C:\Users\Лилия\source\repos\Lab3_task3\Lab3_task3\obj\Debug\Lab3_task3.pdb
